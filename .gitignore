@@ -1,0 +1,13 @@
+# Build
+bin/
+obj/
+out/
+
+# IDE / VS
+.vs/
+.vscode/
+*.user
+
+# Config locais
+appsettings.Development.json
+*.env
